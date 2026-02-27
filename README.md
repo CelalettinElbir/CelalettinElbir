@@ -12,7 +12,7 @@ I don't just write code; I build solutions that are production-ready, containeri
 
 **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB1.svg?style=for-the-badge&logo=php&logoColor=white)
+![Djnago](https://img.shields.io/badge/php-%23777BB1.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
@@ -42,8 +42,7 @@ I don't just write code; I build solutions that are production-ready, containeri
 
 
 ### 📫 Connect with me:
-- **LinkedIn:** [Your Profile Link Here]
-- **Portfolio:** [Your Website Link Here]
-- **Email:** [Your Email Here]
+- **LinkedIn:** [https://www.linkedin.com/in/celalettinelbir/]
+- **Email:** [celalettinelbir@hotmail.com]
 
 *"The best code is the code that solves a problem and stays out of the way."*
