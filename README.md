@@ -39,13 +39,7 @@ I don't just write code; I build solutions that are production-ready, containeri
 - **Communication First:** I believe clear communication is the most important part of the dev process.
 - **Production-Focused:** I ensure your app is deployed securely and scales efficiently.
 
----
 
-### 📊 GitHub Stats
-![Celalettin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical)
-
----
 
 ### 📫 Connect with me:
 - **LinkedIn:** [Your Profile Link Here]
