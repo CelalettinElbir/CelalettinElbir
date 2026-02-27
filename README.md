@@ -1,7 +1,7 @@
 # Welcome to my GitHub page 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Celalettin Elbir!;+Python+%26+Laravel+Developer;+AI+Integration+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hi+There!+👋;I'm+Celalettin+Elbir!;Python+%26+Laravel+Developer;AI+Integration+Specialist" alt="Typing SVG" />
 </div>
 
 ## 👤 About Me
