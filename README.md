@@ -73,7 +73,9 @@ Check out my [Portfolio](https://PORTFOLIO_LINK) | [LinkedIn](https://LINKEDIN_L
 </div>
 
 
-
+### 📫 Connect with me:
+- **LinkedIn:** [https://www.linkedin.com/in/celalettinelbir/]
+- **Email:** [celalettinelbir@hotmail.com]
 
 <div align="center">
   <p><i>"Bridging the gap between complex code and business success."</i></p>
