@@ -17,19 +17,18 @@ What sets me apart is my approach to development: I don't just write code; I act
 - 🐳 **DevOps & Scaling:** Containerizing applications with **Docker** and optimizing production environments using **Nginx** and **Linux**.
 - 🛠️ **Clean Architecture:** Writing maintainable, testable code that stands the test of time.
 
-Check out my [Portfolio](https://PORTFOLIO_LINK) | [LinkedIn](https://LINKEDIN_LINK) | [CV](CV_LINK)
-
----
+<br>
 
 ## 📨 Social & Contact
 
 <div align="left">
-  <a href="celalettinelbir@hotmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+  <a href="mailto:celalettinelbir@hotmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
   &nbsp;
-  <a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/celalettinelbir/)" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+  <a href="https://www.linkedin.com/in/celalettinelbir/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 </div>
 
 ---
+<br>
 
 ## ⚙ Skills
 
